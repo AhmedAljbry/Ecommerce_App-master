@@ -5,10 +5,6 @@ This project demonstrates real e-commerce flows with beautiful UI, clean structu
 
 ---
 
-## 🎬 Video Series (Full Tutorial)
-📺 Watch the complete step-by-step series on YouTube:  
-👉 https://www.youtube.com/playlist?list=PLV1fXIAyjeuZ2pOUkmHwzMJCJgCedrQJW
-
 ---
 
 ## 🌟 Final UI Preview
